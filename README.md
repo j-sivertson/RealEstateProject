@@ -1,4 +1,4 @@
-# RealFstateProject
+# RealEstateProject
 
 This project was created as a homework assignment for my CS 115 class (Object-Oriented Programming) in Java.
 
